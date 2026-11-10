@@ -1,0 +1,7 @@
+stage_num,stage_name,user_count,conv_from_prev_pct,conv_from_signup_pct
+1,Signed Up,50000,100.0,100.0
+2,Completed KYC,42567,85.1,85.1
+3,Made First Investment,22214,52.2,44.4
+4,Set Up SIP,11041,49.7,22.1
+5,Second Investment ≤30d,11940,108.1,23.9
+6,Active at Day 90,6894,57.7,13.8
